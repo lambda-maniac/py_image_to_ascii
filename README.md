@@ -1,5 +1,5 @@
 
-Generate using:
+Generated using:
 ```python
 to_ascii_art("git.jpg", size = (128, 64), out = "git.txt")
 ```
